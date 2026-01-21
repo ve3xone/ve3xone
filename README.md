@@ -1,4 +1,4 @@
-
+<h3 align="center"> Hi, this is my profile! </h3> 
 
 <details><summary><strong>About me</strong></summary><p>
 
@@ -27,8 +27,6 @@
 [![VK: @ve3xone](https://shields.io/badge/VK---?logo=vk&style=for-the-badge&color=191a1b)](//vk.com/ve3xone)
 [![GMAIL: vlad288583@gmail.com](https://shields.io/badge/gmail---?logo=gmail&style=for-the-badge&color=191a1b)](mailto:vlad288583@gmail.com)
 
-<details><summary><strong>Metrics</strong></summary><p>
-![Metrics](//metrics.lecoq.io/ve3xone?template=classic&isocalendar=1&languages=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FYekaterinburg&config.twemoji=true)
-</p></details>
-
 > This bio is inspired by the styles of [kr3st1k](//github.com/kr3st1k) and [Fustie](//github.com/Fustie).
+
+![Metrics](//metrics.lecoq.io/ve3xone?template=classic&isocalendar=1&languages=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FYekaterinburg&config.twemoji=true)
