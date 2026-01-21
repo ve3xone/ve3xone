@@ -1,5 +1,7 @@
 <h3 align="center"> Hi, this is my profile! </h3> 
 
+------
+
 <details><summary><strong>About me</strong></summary><p>
 
 - My name is Vladislav (Владислав) aka `ve3xone` aka `vlad288583`
