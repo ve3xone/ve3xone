@@ -14,7 +14,7 @@
 ### My projects
 - [kronos-todo-app](//github.com/ve3xone/kronos-todo-app) - The todo application for the URFU IRIT-RTF project workshop (1st year, 2nd semester - 2nd year, 3rd semester 09 directions)
 
-- [BloodyPath](//github.com/ve3xone/BloodyPath) - C# game (Monogame) for ulearn URFU IRIT-RTF (1st year, 2nd semester, 09 directions)
+- [BloodyPath](//github.com/ve3xone/BloodyPath) - C# game (Monogame) for ulearn course URFU IRIT-RTF (1st year, 2nd semester, 09 directions)
 
 - [MPU6050onTinyWireM](//github.com/ve3xone/MPU6050onTinyWireM) - MPU6050 Library using TinyWireM library for Attiny processors
 
@@ -41,3 +41,9 @@
 [![GMAIL: vlad288583@gmail.com](https://shields.io/badge/gmail---?logo=gmail&style=for-the-badge&color=191a1b)](mailto:vlad288583@gmail.com)
 
 > This bio is inspired by the styles of [kr3st1k](//github.com/kr3st1k) and [Fustie](//github.com/Fustie).
+
+------
+
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=ve3xone&show_icons=true&title_color=de6161&icon_color=de6161&count_private=true&theme=dracula&include_all_commits=false&custom_title=ve3xone%27s%20GitHub%20Stats" />
+<br>
